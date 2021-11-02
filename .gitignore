@@ -1,0 +1,11 @@
+node_modules
+package-lock.json
+server.cfg
+pawno
+libnode.so.64
+*.txt
+*.amx
+*.exe
+*.log
+*.dll
+*.so

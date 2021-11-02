@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "samp-node-lib": "^1.0.5"
+  },
+  "name": "samp-node-gm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Supa",
+  "license": "ISC",
+  "description": "SA-MP Server Gamemode using samp-node: https://github.com/AmyrAhmady/samp-node/releases"
+}
