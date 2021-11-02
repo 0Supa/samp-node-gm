@@ -14,5 +14,13 @@
   },
   "author": "Supa",
   "license": "ISC",
-  "description": "SA-MP Server Gamemode using samp-node: https://github.com/AmyrAhmady/samp-node/releases"
+  "description": "SA-MP Server Gamemode using samp-node: https://github.com/AmyrAhmady/samp-node/releases",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0Supa/samp-node-gm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/0Supa/samp-node-gm/issues"
+  },
+  "homepage": "https://github.com/0Supa/samp-node-gm#readme"
 }
