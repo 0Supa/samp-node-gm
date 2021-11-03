@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "mariadb": "^2.5.5",
     "samp-node-lib": "^1.0.5"
   },
   "name": "samp-node-gm",
@@ -8,7 +10,6 @@
   "directories": {
     "lib": "lib"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
